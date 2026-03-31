@@ -1,0 +1,17 @@
+# Python Caching
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+
+# Raw NuScenes HD-Map Datastore (DO NOT UPLOAD)
+maps/
+samples/
+sweeps/
+v1.0-mini/
+*.txt
+
+# PyTorch Checkpoints
+*.pth
+*.pt
