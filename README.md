@@ -1,6 +1,6 @@
 # Real-Time Drivable Space Segmentation
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jvivard/Real_Time_Road_Segmentation/blob/main/Real_Time_Road_Segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RIJAtz5bb9c2Q7nh_vRkwC2ngCGe6Y3y?usp=sharing)
 
 ## 🎯 Project Overview
 This repository contains a high-performance semantic segmentation engine designed to identify contiguous drivable road surfaces from a vehicle's front-facing perspective camera. Built entirely from scratch, it targets a strict **30+ FPS** real-time automotive deployment benchmark.
